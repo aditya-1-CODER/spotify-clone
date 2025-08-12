@@ -80,7 +80,7 @@ let count = 0;
         <h1 class="text-3xl font-semibold ">Listen to your favourite songs...</h1></article>
       <article class="grid grid-cols-[1.5fr_auto]">
         <h1 class=" text-4xl font-bold text-center mt-20 items-start"> Hello ${displayName}!!!</h1>
-      <h1 class = "text-2xl font-semibold text-end ">Spotify clone by Parikshit</h1>
+      <h1 class = "text-2xl font-semibold text-end ">Spotify clone by Aditya</h1>
       </article>`;}
        
         const playListMap = new Map([["featured","featured-playlist-items"],["top playlists","top-playlist-items"]]);
